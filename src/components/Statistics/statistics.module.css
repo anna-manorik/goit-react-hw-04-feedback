@@ -1,0 +1,8 @@
+
+.statsList{
+    list-style: none;
+}
+
+.statsList li{
+    padding: 10px;
+}
